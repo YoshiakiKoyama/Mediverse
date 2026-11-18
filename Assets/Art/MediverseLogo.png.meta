@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 6a42993e853cc994cabf942e3732a7f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8100350906341106601
+    second: MediverseLogo_0
+  - first:
+      213: -2258231413142380904
+    second: MediverseLogo_1
+  - first:
+      213: 3338261339260886402
+    second: MediverseLogo_2
+  - first:
+      213: 9098619516562959890
+    second: MediverseLogo_3
+  - first:
+      213: -8297611754013279470
+    second: MediverseLogo_4
+  - first:
+      213: 1778324328867848245
+    second: MediverseLogo_5
+  - first:
+      213: 5895738686664173471
+    second: MediverseLogo_6
+  - first:
+      213: 5211678188802627420
+    second: MediverseLogo_7
+  - first:
+      213: 8104220811903908428
+    second: MediverseLogo_8
+  - first:
+      213: 6096429780097410754
+    second: MediverseLogo_9
+  - first:
+      213: -6658746555922026639
+    second: MediverseLogo_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MediverseLogo_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 248
+        width: 752
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c5687a4c5c59f80800000000000000
+      internalID: -8100350906341106601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediverseLogo_1
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 339
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e150f8e7629a0e0800000000000000
+      internalID: -2258231413142380904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediverseLogo_2
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 339
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d901e4003e35e20800000000000000
+      internalID: 3338261339260886402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediverseLogo_3
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 409
+        width: 653
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21eeb276e3ac44e70800000000000000
+      internalID: 9098619516562959890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediverseLogo_4
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 345
+        width: 23
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bbee58216f8dc80800000000000000
+      internalID: -8297611754013279470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediverseLogo_5
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 263
+        width: 127
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5306a9d1e80eda810800000000000000
+      internalID: 1778324328867848245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediverseLogo_6
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 343
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97652b391fd1d150800000000000000
+      internalID: 5895738686664173471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediverseLogo_7
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 340
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c575b3733b9935840800000000000000
+      internalID: 5211678188802627420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediverseLogo_8
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 145
+        width: 80
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a3cd2f3e9f77070800000000000000
+      internalID: 8104220811903908428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediverseLogo_9
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 71
+        width: 613
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6a1d0b59eda9450800000000000000
+      internalID: 6096429780097410754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediverseLogo_10
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 192
+        width: 495
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f69e479416793a0800000000000000
+      internalID: -6658746555922026639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MediverseLogo_0: -8100350906341106601
+      MediverseLogo_1: -2258231413142380904
+      MediverseLogo_10: -6658746555922026639
+      MediverseLogo_2: 3338261339260886402
+      MediverseLogo_3: 9098619516562959890
+      MediverseLogo_4: -8297611754013279470
+      MediverseLogo_5: 1778324328867848245
+      MediverseLogo_6: 5895738686664173471
+      MediverseLogo_7: 5211678188802627420
+      MediverseLogo_8: 8104220811903908428
+      MediverseLogo_9: 6096429780097410754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

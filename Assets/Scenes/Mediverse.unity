@@ -1158,6 +1158,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 984257602}
   m_CullTransparentMesh: 1
+--- !u!1 &1090639225 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 644585487797114658, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+  m_PrefabInstance: {fileID: 1698913020}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1147124217
 GameObject:
   m_ObjectHideFlags: 0
@@ -1607,6 +1612,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1874448581}
     m_Modifications:
+    - target: {fileID: 92614211277527496, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 706ab0b3176ccb54ba2a665d67b6cb42, type: 3}
+    - target: {fileID: 156033322365279877, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 7910630589fc0264fb237f42067b9c92, type: 3}
     - target: {fileID: 268482849239502232, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1647,28 +1660,375 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 274953278272160123, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 0a266a205050ecc419fb2bbe33e631f1, type: 3}
+    - target: {fileID: 277673590616793991, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 0624ba92ec53f874c85a60c7b630c498, type: 3}
+    - target: {fileID: 317338289642127385, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 1de1b9919a009604a9b365f67f2bd953, type: 3}
+    - target: {fileID: 493623471365332107, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 938dd2f2653e51d43bc416abb7ffc279, type: 3}
+    - target: {fileID: 525564713186598025, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 1ed2ddb6c98acfc4b9046a567d60aa91, type: 3}
+    - target: {fileID: 527926665281466082, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 77a829f510e28a5438a39cf9d2e2ca4a, type: 3}
     - target: {fileID: 644585487797114658, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
       propertyPath: m_Name
       value: Piano_Main
       objectReference: {fileID: 0}
+    - target: {fileID: 801411383927679042, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 4ff0023e3d0a2c54d8e53af2089f0bc8, type: 3}
+    - target: {fileID: 832370647559992963, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: dfeb601628f190f4996b2b2ae379fb68, type: 3}
+    - target: {fileID: 1069300707272341343, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ab76e12c5d64a894681394f1d0a65e2d, type: 3}
+    - target: {fileID: 1101099130238981945, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 4b7973f2262e1124a8dd35cfa6650857, type: 3}
+    - target: {fileID: 1149876616357048094, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 68f55a5762832c64aa7c27f903a63ccf, type: 3}
+    - target: {fileID: 1296303966367926321, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 5eb0c5bf3b89b884193465b01340efb7, type: 3}
+    - target: {fileID: 1341969916216178307, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 9f168b016ffbeb8499a43ff5fa99b52d, type: 3}
+    - target: {fileID: 1392598062423466817, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: dbfa39cdc4104eb4ea142e9e86cc9ddf, type: 3}
+    - target: {fileID: 1513877622305486654, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 680c03d23895d9945b98b67c906c52b3, type: 3}
+    - target: {fileID: 1580010916675974525, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e6db928981de93459bd6d298b96b163, type: 3}
+    - target: {fileID: 1599656853940119573, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: f468d30060eecbe41b254f6398500ef7, type: 3}
+    - target: {fileID: 1787752089714816258, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: a3f7147ff1250a440bbd6aa9b6fd624a, type: 3}
+    - target: {fileID: 1813435644114458470, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 24858c302b4388e4d8d15c277ee925b9, type: 3}
+    - target: {fileID: 1975402480075829279, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 18da12734d5877e4ca20e91dfc8eda59, type: 3}
+    - target: {fileID: 2101499385923023914, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 541fd6e3dc91ca044863fe9c04df5e1a, type: 3}
+    - target: {fileID: 2129006638215165158, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 3f552ba8837c27e4ea3f0d5d9fa7a028, type: 3}
+    - target: {fileID: 2228198312242133844, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 367e4a9b2701f7c4da949cd913ac5172, type: 3}
+    - target: {fileID: 2248488620429629102, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: b9ad8cade838f314bb4e2b12348d017e, type: 3}
+    - target: {fileID: 2593331797575264901, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: bf2486f2580a0b343b15a63f0231fdc5, type: 3}
+    - target: {fileID: 2887869788035569421, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6956ad7d636d05e4d900bdaf9d8a7366, type: 3}
+    - target: {fileID: 2987495560451092328, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ed90b2f3f5ec5f84282d6d42ebc4adf4, type: 3}
+    - target: {fileID: 3093162064789732706, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 89412485a8a636f4880dd19a98732313, type: 3}
+    - target: {fileID: 3280114908425438721, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ca1b99824fd65b04dbb1128118163548, type: 3}
+    - target: {fileID: 3321364276761495251, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 64a1653570622894cb43b1ada31f3e31, type: 3}
+    - target: {fileID: 3519230922882711202, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: f1ce6e2f87650684cbece277c986062d, type: 3}
+    - target: {fileID: 3538371968935371767, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 57e502578226cac4c85f3f7440325039, type: 3}
+    - target: {fileID: 3601498262651456590, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 4b97f1ae57023a44f893fcde6f6096bc, type: 3}
+    - target: {fileID: 3610428641209644271, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 0afd6460e2cda024cb027b0db4a77dc3, type: 3}
+    - target: {fileID: 3652055811603115809, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: a0ada61146b7b8b4bb7241bbd2591318, type: 3}
+    - target: {fileID: 3827562885694081446, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 98b56670f210b34429423780ad1d3b52, type: 3}
+    - target: {fileID: 3835097222646185312, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: f9eb99a3255310644b8e5a7637c3a7ba, type: 3}
+    - target: {fileID: 3872119951835979852, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 1009a907becd5c44ca57898efe0138f8, type: 3}
+    - target: {fileID: 3913779968649319373, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 8ea1edbab4507f84e8115d973159e746, type: 3}
+    - target: {fileID: 3987517669656423575, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 741519c62d7a4664f9c745353aa20dd7, type: 3}
+    - target: {fileID: 4202349136601233872, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 843200152884dc54589a10735209e7ae, type: 3}
+    - target: {fileID: 4257685285658633779, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 1cb27704058d6f54aa7c5b50a24da19b, type: 3}
+    - target: {fileID: 4261534709966221216, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 48b961e16833fb24ba8ac5691ecdce52, type: 3}
+    - target: {fileID: 4611306255311267917, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 859deda6e775a9740837bf3044ce306b, type: 3}
+    - target: {fileID: 4658188109501811129, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 7661063f707ce414ebb79ac66518f824, type: 3}
+    - target: {fileID: 4693568026727727467, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 81db3687aaac2b940bdc977c79c4426e, type: 3}
+    - target: {fileID: 5046554686005273577, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 49bce4f79b3fe46439c791faa6c95afb, type: 3}
+    - target: {fileID: 5104418226755653958, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 7247f7762f0954d4c916d19e55b71410, type: 3}
+    - target: {fileID: 5138574611600692983, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 5bb918c969bb6a84290edfc2bc91fe87, type: 3}
+    - target: {fileID: 5206084251544585042, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e780bdf2cb7b2248aa08b417d141a33, type: 3}
+    - target: {fileID: 5515262072361988710, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 824e93dd14bb7f649a1957bf8ffbfbd3, type: 3}
+    - target: {fileID: 5666704841619494966, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 272bf622ee9d29b42a26a9a264815d97, type: 3}
+    - target: {fileID: 5712196520488783158, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 08b510cfdfeb81e47a1d51e8e5dedbd2, type: 3}
+    - target: {fileID: 5729849061458397862, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71b4879c8261fbd44a1a158422cc8228, type: 3}
+    - target: {fileID: 6025612990540238588, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 981e468df4472ac40adece82ba559bcb, type: 3}
+    - target: {fileID: 6172018973843783737, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: c24784bbd27abff4a9950095755448b8, type: 3}
+    - target: {fileID: 6176501664263718372, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: bccf6e2572f8bd5489d4b47ea870033d, type: 3}
+    - target: {fileID: 6182459896542454028, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e98a97815d761747a923785311e338e, type: 3}
+    - target: {fileID: 6208153249665256211, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: f35d6aa278bb7c14888a83a417e9825d, type: 3}
+    - target: {fileID: 6329359410728354242, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 0eb11582a2d280245a24162f25f16449, type: 3}
+    - target: {fileID: 6501961030810093067, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: f963135d55e513f44bc583bc82264479, type: 3}
+    - target: {fileID: 6505943383514595771, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ee1478e94e4dcea48938dbbdc972d58c, type: 3}
+    - target: {fileID: 6548225587153733575, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 262075780c37b4b4cb5fd4f54b8461ed, type: 3}
+    - target: {fileID: 6601033598406842893, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 4263fdcfc78067644bea8be9842c556d, type: 3}
+    - target: {fileID: 6649377525083225995, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6250379a149e27c43acae272cd8148d1, type: 3}
+    - target: {fileID: 6773901474074349549, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: cfc5c0e8043f69f43b2d8ed62140385b, type: 3}
     - target: {fileID: 6959898871674603106, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
       propertyPath: rhythmJudge
       value: 
       objectReference: {fileID: 1257002627}
+    - target: {fileID: 7010837359902210684, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: af3d06ce81856ae4f9fd68190b186e49, type: 3}
+    - target: {fileID: 7025407627439213751, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 5e2a191e2bf02cd4ba0098a61a57131e, type: 3}
+    - target: {fileID: 7059717415465314792, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: a90ce2fd5731cd14aa459168e82fd461, type: 3}
+    - target: {fileID: 7168215878561004848, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 59256b0e2d360ac42bd6f0aa8e058465, type: 3}
+    - target: {fileID: 7173027380383966006, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: c8b889c20eec02a4ea6603f5928fad46, type: 3}
+    - target: {fileID: 7200662386236094653, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: c2ccb96e5f752944896b76ea5fe54edd, type: 3}
+    - target: {fileID: 7389597910437126119, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: b7277a6ca4aa7484c8d9fe56f00ded50, type: 3}
+    - target: {fileID: 7711305822478959369, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 4fa5b66e987fbb4499dd6b0d637700c9, type: 3}
+    - target: {fileID: 7741597673793540291, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6196d42ff0455c146b7beb7a63254f90, type: 3}
+    - target: {fileID: 7779286999825643418, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 45e78f42ee8976145aed03a817466b0f, type: 3}
+    - target: {fileID: 7973677144411022547, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: d1b780e47bbec174ea2c0264a2ad47e2, type: 3}
+    - target: {fileID: 8206363120126928047, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 45bc118a00d4a3a4587cf8715c6dc8a5, type: 3}
+    - target: {fileID: 8384589825891609037, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 96eef85595f13ff4690651d085c462b5, type: 3}
+    - target: {fileID: 8397098915442229652, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 2c8d8802e29bf36499833f62c5053f41, type: 3}
+    - target: {fileID: 8658148546073372093, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: c070a5b737d599d46b65180e3e2b31ad, type: 3}
+    - target: {fileID: 8663286198423188892, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: df8459e1855fb5b4a8613de6cc04dcc7, type: 3}
+    - target: {fileID: 8776192117033680023, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6527125bc76535847a6958b3750e8640, type: 3}
+    - target: {fileID: 8958333403761280406, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: e1acd1db1fc103a48b3a8ece7a76604b, type: 3}
+    - target: {fileID: 9075468356796574468, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: fe5243a726765454ca9e525aa3e67f92, type: 3}
+    - target: {fileID: 9216612256165927890, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      propertyPath: pianoSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 9069064198170034e9723093eec57b03, type: 3}
     m_RemovedComponents:
     - {fileID: 6959898871674603106, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
     - {fileID: 1186435702886862121, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
     - {fileID: 6456299345906793869, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 644585487797114658, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1698913025}
   m_SourcePrefab: {fileID: 100100000, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
 --- !u!114 &1698913021 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 5443512419180971551, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
   m_PrefabInstance: {fileID: 1698913020}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 1090639225}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 72cb62129fd33db4d8f198775bf830ef, type: 3}
@@ -1679,6 +2039,103 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 268482849239502232, guid: bdbebf90afb42ac40acf269e71fef6fa, type: 3}
   m_PrefabInstance: {fileID: 1698913020}
   m_PrefabAsset: {fileID: 0}
+--- !u!82 &1698913025
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1090639225}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &1732298648
 GameObject:
   m_ObjectHideFlags: 0
@@ -2075,7 +2532,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f26c25be8f5e96d4b9d44ed74ba5c1ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MidiSongReader
-  midiFile: {fileID: 4900000, guid: 19642ed80db80314693c150d9baa5605, type: 3}
+  midiFile: {fileID: 4900000, guid: 736b2cffe9329bf4d8bec40a1c0e0183, type: 3}
   printNotes: 1
 --- !u!4 &2002001648
 Transform:
