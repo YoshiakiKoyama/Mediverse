@@ -2532,7 +2532,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f26c25be8f5e96d4b9d44ed74ba5c1ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MidiSongReader
-  midiFile: {fileID: 4900000, guid: 736b2cffe9329bf4d8bec40a1c0e0183, type: 3}
+  midiFile: {fileID: 4900000, guid: 0859398e8c913be49a138f48df378171, type: 3}
   printNotes: 1
 --- !u!4 &2002001648
 Transform:

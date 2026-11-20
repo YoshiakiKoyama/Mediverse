@@ -6,7 +6,7 @@ public class MainMenuManager : MonoBehaviour
     // PLAY button
     public void PlayGame()
     {
-
+        SceneManager.LoadScene("SongSelectScene");
         Debug.Log("Starting game...");
     }
 
